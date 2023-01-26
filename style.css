@@ -82,10 +82,17 @@
 }
 /* /esercizio 5 */
 
+/* img */
 .ex-6-img, .ex-7-img, .ex-8-img {
     width: 500px;
 }
+/* /img */
 
+/* esercizio 6 */
+.ex-6-img:hover {
+    filter: grayscale(1);
+}
+/* /esercizio 6 */
 .ex-9-img {
     margin: 50px 100px;
     width: 400px;
