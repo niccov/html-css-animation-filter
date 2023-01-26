@@ -93,6 +93,16 @@
     filter: grayscale(1);
 }
 /* /esercizio 6 */
+
+/* esercizio 7 */
+.ex-6-img {
+    transition: 1s;
+}
+.ex-6-img:hover {
+    filter: grayscale(.3) sepia(.5);
+}
+/* l'immagine 7 non mi appariva perciò ho usato la 6 */
+/* /esercizio 7 */
 .ex-9-img {
     margin: 50px 100px;
     width: 400px;
